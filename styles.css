@@ -13,19 +13,19 @@ id as heading to its inner div containing heading. Edit styles.css
 
 div.heading{
   
-  font-size=20px;
   border-left:5px solid green;
   color:white;
   padding: 10px;
   text-decoration: underline;
 
-  background-color:purple;
-  width:200px;
+ 
 
   
 }
 div.main{
-  
+  font-size=20px;
+  background-color:purple;
+  width:200px;
 
  
 }
