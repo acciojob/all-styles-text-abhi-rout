@@ -19,7 +19,7 @@ id as heading to its inner div containing heading. Edit styles.css
 	
 }
 h1{
-	font-size:20px;
+/* 	font-size:20px; */
 }
 div.main{
   background-color:rgb(128,0,128);
