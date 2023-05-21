@@ -11,12 +11,14 @@ Note: Add class name as main to the main div and class name &
 id as heading to its inner div containing heading. Edit styles.css 
 & main.html to get this exact image output and pass test cases */
 
-div.heading{
+#heading{
   
-  border-left:5px solid green;
+  
   color:white;
   padding: 10px;
   text-decoration: underline;
+  border-left-color:green;
+	
 	
 }
 h1{
@@ -24,7 +26,7 @@ h1{
 	
 }
 div.main{
-  background-color:purple;
+  background-color:rgb(128,0,128);
   width:200px;
-	border-left-width:5px;
+  border-left:5px solid green;
 }
