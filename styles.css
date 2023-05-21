@@ -12,21 +12,19 @@ id as heading to its inner div containing heading. Edit styles.css
 & main.html to get this exact image output and pass test cases */
 
 #heading{
-  
-  
-  color:white;
-  padding: 10px;
+   color:white;
   text-decoration: underline;
   border-left-color:green;
-	
+	font-size:20px;
 	
 }
 h1{
 	font-size:20px;
-	
 }
 div.main{
   background-color:rgb(128,0,128);
   width:200px;
   border-left:5px solid green;
+  padding: 10px;
+	
 }
